@@ -1,0 +1,1 @@
+const const load_textB_15 = "person";

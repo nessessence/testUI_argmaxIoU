@@ -1,0 +1,1 @@
+const const load_textA_05 = "2015";

@@ -1,0 +1,1 @@
+const const load_textB_11 = "bench";

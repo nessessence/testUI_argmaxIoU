@@ -1,0 +1,1 @@
+const const load_textA_20 = "beer";

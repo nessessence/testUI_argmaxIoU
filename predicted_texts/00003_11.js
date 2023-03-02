@@ -1,0 +1,1 @@
+const const load_textA_11 = "2009 trip";

@@ -1,0 +1,1 @@
+const const load_textA_13 = "tropical";
