@@ -1,1 +1,1 @@
-tvmonitor
+tv/monitor
