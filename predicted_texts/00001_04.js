@@ -1,1 +1,1 @@
-const const load_textA_04 = "tweet";
+const load_textA_04 = "tweet";

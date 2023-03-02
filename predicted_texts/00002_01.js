@@ -1,1 +1,1 @@
-const const load_textA_01 = "full illuminated";
+const load_textA_01 = "full illuminated";

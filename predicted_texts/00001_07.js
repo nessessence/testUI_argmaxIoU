@@ -1,1 +1,1 @@
-const const load_textA_07 = "room tone";
+const load_textA_07 = "room tone";

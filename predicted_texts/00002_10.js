@@ -1,1 +1,1 @@
-const const load_textA_10 = "field";
+const load_textA_10 = "field";

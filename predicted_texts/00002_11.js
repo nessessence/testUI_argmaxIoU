@@ -1,1 +1,1 @@
-const const load_textA_11 = "flat";
+const load_textA_11 = "flat";

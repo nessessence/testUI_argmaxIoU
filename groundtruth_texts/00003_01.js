@@ -1,1 +1,1 @@
-const const load_textB_01 = "table";
+const load_textB_01 = "table";

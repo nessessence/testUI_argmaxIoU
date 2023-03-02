@@ -1,1 +1,1 @@
-const const load_textA_19 = "desktop";
+const load_textA_19 = "desktop";

@@ -1,1 +1,1 @@
-const const load_textA_03 = "display column";
+const load_textA_03 = "display column";

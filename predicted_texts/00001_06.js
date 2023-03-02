@@ -1,1 +1,1 @@
-const const load_textA_06 = "television";
+const load_textA_06 = "television";

@@ -1,1 +1,1 @@
-const const load_textA_19 = "new led";
+const load_textA_19 = "new led";

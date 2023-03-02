@@ -1,1 +1,1 @@
-const const load_textB_02 = "tv/monitor";
+const load_textB_02 = "tv/monitor";

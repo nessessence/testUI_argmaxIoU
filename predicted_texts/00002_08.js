@@ -1,1 +1,1 @@
-const const load_textA_08 = "future";
+const load_textA_08 = "future";

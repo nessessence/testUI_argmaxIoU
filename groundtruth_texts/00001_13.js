@@ -1,1 +1,1 @@
-const const load_textB_13 = "building";
+const load_textB_13 = "building";

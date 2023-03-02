@@ -1,1 +1,1 @@
-const const load_textA_12 = "pub";
+const load_textA_12 = "pub";

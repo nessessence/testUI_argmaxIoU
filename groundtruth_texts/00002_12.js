@@ -1,1 +1,1 @@
-const const load_textB_12 = "tree";
+const load_textB_12 = "tree";

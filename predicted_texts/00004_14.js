@@ -1,1 +1,1 @@
-const const load_textA_14 = "worm";
+const load_textA_14 = "worm";

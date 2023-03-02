@@ -1,1 +1,1 @@
-const const load_textB_15 = "computer";
+const load_textB_15 = "computer";

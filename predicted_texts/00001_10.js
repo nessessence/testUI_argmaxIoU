@@ -1,1 +1,1 @@
-const const load_textA_10 = "square";
+const load_textA_10 = "square";

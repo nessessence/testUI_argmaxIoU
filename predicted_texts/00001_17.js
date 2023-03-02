@@ -1,1 +1,1 @@
-const const load_textA_17 = "possible";
+const load_textA_17 = "possible";

@@ -1,1 +1,1 @@
-const const load_textB_13 = "ceiling";
+const load_textB_13 = "ceiling";

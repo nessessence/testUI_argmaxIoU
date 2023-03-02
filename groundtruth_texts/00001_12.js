@@ -1,1 +1,1 @@
-const const load_textB_12 = "train";
+const load_textB_12 = "train";

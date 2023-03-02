@@ -1,1 +1,1 @@
-const const load_textA_18 = "group";
+const load_textA_18 = "group";

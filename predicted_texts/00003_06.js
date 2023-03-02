@@ -1,1 +1,1 @@
-const const load_textA_06 = "long";
+const load_textA_06 = "long";

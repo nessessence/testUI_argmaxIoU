@@ -1,1 +1,1 @@
-const const load_textA_08 = "rotating";
+const load_textA_08 = "rotating";

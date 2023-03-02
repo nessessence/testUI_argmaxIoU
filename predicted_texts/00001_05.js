@@ -1,1 +1,1 @@
-const const load_textA_05 = "glowing";
+const load_textA_05 = "glowing";

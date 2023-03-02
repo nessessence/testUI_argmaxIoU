@@ -1,1 +1,1 @@
-const const load_textA_13 = "week";
+const load_textA_13 = "week";

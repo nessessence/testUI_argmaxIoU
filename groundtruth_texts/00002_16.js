@@ -1,1 +1,1 @@
-const const load_textB_16 = "keyboard";
+const load_textB_16 = "keyboard";

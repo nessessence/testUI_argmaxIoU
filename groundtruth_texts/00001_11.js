@@ -1,1 +1,1 @@
-const const load_textB_11 = "platform";
+const load_textB_11 = "platform";

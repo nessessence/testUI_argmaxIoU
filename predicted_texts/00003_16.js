@@ -1,1 +1,1 @@
-const const load_textA_16 = "serial killer";
+const load_textA_16 = "serial killer";

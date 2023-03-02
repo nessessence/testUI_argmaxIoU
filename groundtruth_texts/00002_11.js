@@ -1,1 +1,1 @@
-const const load_textB_11 = "ground";
+const load_textB_11 = "ground";

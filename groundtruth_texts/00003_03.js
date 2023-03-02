@@ -1,1 +1,1 @@
-const const load_textB_03 = "sky";
+const load_textB_03 = "sky";

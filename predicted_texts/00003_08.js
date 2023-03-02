@@ -1,1 +1,1 @@
-const const load_textA_08 = "vastus wetlands";
+const load_textA_08 = "vastus wetlands";

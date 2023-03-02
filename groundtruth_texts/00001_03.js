@@ -1,1 +1,1 @@
-const const load_textB_03 = "window";
+const load_textB_03 = "window";

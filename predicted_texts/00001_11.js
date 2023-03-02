@@ -1,1 +1,1 @@
-const const load_textA_11 = "large";
+const load_textA_11 = "large";
